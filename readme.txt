@@ -41,6 +41,7 @@ Defa Online Image Protector is just making it hard to get the image out of the b
 
 Caution : Defa Online Image Protector doesn't protect from screen capture.
 Caution 2 : Please use Defa Online Image Protector only the page you want to protect. Defa Online Image Protector can effect your google ranking and server memory resources.
+Caution 3 : Conflict with Defa Protector , Ampare Protector , Ampare Hide Links and other ob_start() software
 
 
 == Installation ==
