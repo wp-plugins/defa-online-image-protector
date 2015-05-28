@@ -6,7 +6,7 @@ Description: Protect your image from being downloaded and hotlink as hard as we 
 Version: 1.0
 Author: Juthawong Naisanguansee
 Author URI: http://www.juthawong.com/
-License: Freeware
+License: GPL
 */
 add_action('wp_head','defago2');
 add_action('wp_footer', 'defaset23');
