@@ -2,13 +2,14 @@
 Contributors: Juthawong Naisanguansee
 Donate link: http://www.juthawong.com/donate
 Tags: Defa Online Image Protector , Protect Image Download , XHTML , Java , HTML5 , PHP , Javascript , Copycat , Right click , disabled , free , open source,Image Stolen , Watermarks , Game , Photo , Blogging , Image , Tags , Facebook , Stackoverflow , Imgur , BBCode , Imageshack , Shutter , stock , sell , image selling , commercial , image download , save as , save link as , save picture as , save page as, stolen , steal , fight , prevent , website , audiojungle , envato , photo market , photo selling , youtube , youimage
+
 Requires at least: 3.3
 Tested up to: 4.2
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Protect your html5 video from being downloaded or stolen automatically with the latest technology. 
+Protect your image from download as hard as we could.
 
 == Description ==
 
@@ -80,8 +81,10 @@ We encrypted the url link prevent user from knowing the the real destination of 
 Encounter Problems ? 
 
 Open ticket or read wiki at Sourceforge.
-http://sourceforge.net/p/defaprotecthtml5videodownload/
+http://sourceforge.net/projects/defaprotectimagedownload/
 
+Distribute our code at Github
+https://github.com/juthawong/Defa-Online-Image-Protector-Protect-Image-Download
 
 == Screenshots ==
 
