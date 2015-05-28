@@ -3,7 +3,7 @@
 Plugin Name: Defa Online Image Protector Free Edition
 Plugin URI: http://ww2.juthawong.com/imageprotector
 Description: Protect your image from being downloaded and hotlink as hard as we could
-Version: 3.1
+Version: 1.0
 Author: Juthawong Naisanguansee
 Author URI: http://www.juthawong.com/
 License: GPL
