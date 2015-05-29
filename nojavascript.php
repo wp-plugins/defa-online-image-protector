@@ -1,0 +1,1 @@
+<h1>We detect that yout browser doesn't activate javascript which is need to use in image protector</h1>
