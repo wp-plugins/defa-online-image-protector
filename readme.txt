@@ -1,4 +1,4 @@
-=== Defa Protector Platinum ===
+=== Defa Online Image Protector Free Edition ===
 Contributors: Juthawong Naisanguansee
 Donate link: http://www.juthawong.com/donate
 Tags: Defa Online Image Protector , Protect Image Download , XHTML , Java , HTML5 , PHP , Javascript , Copycat , Right click , disabled , free , open source,Image Stolen , Watermarks , Game , Photo , Blogging , Image , Tags , Facebook , Stackoverflow , Imgur , BBCode , Imageshack , Shutter , stock , sell , image selling , commercial , image download , save as , save link as , save picture as , save page as, stolen , steal , fight , prevent , website , audiojungle , envato , photo market , photo selling , youtube , youimage
