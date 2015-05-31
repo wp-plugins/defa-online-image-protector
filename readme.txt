@@ -4,7 +4,7 @@ Donate link: http://www.juthawong.com/donate
 Tags: Defa Online Image Protector , Protect Image Download , XHTML , Java , HTML5 , PHP , Javascript , Copycat , Right click , disabled , free , open source,Image Stolen , Watermarks , Game , Photo , Blogging , Image , Tags , Facebook , Stackoverflow , Imgur , BBCode , Imageshack , Shutter , stock , sell , image selling , commercial , image download , save as , save link as , save picture as , save page as, stolen , steal , fight , prevent , website , audiojungle , envato , photo market , photo selling , youtube , youimage
 Requires at least: 3.3
 Tested up to: 4.2
-Stable tag: 3.1
+Stable tag: 3.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -41,8 +41,6 @@ Defa Online Image Protector is just making it hard to get the image out of the b
 
 Caution : Defa Online Image Protector doesn't protect from screen capture.
 Caution 2 : Please use Defa Online Image Protector only the page you want to protect. Defa Online Image Protector can effect your google ranking and server memory resources.
-Caution 3 : Conflict with Defa Protector , Ampare Protector , Ampare Hide Links and other ob_start() software
-
 
 == Installation ==
 
